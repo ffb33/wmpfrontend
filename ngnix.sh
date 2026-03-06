@@ -41,7 +41,6 @@ cp -r /tmp/frontend/dist/* /usr/share/nginx/html/
 
 ### Configure Nginx ##
 
-cp ngnix.conf /etc/nginx/nginx.conf
 
 echo ""restart service""
 
